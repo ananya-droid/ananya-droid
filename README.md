@@ -131,11 +131,6 @@ I'm a passionate Computer Science Engineering student at Vellore Institute of Te
 
 ---
 
-## 🔎 Profile Visits
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ananya-droid&color=blue&style=flat)
-
----
 
 ## 🐍 Contribution Graph
 
