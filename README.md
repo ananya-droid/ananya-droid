@@ -10,7 +10,6 @@
 
 I'm a passionate Computer Science Engineering student at Vellore Institute of Technology with expertise in Artificial Intelligence, Machine Learning, and Blockchain technologies. I love building innovative solutions that solve real-world problems through cutting-edge technology.
 
-- 🔭 Currently working on **AI/ML-driven employee salary prediction system** at Oracle
 - 🌱 Currently learning **Generative AI, Deep Learning, and Advanced Blockchain Development**
 - 💬 Ask me about **Python, AI/ML, Blockchain, React, and Web3 technologies**
 - 📫 How to reach me: **ananyak8704@gmail.com**
