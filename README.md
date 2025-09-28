@@ -51,46 +51,7 @@ I'm a passionate Computer Science Engineering student at Vellore Institute of Te
 
 ---
 
-## 💼 Experience
 
-### 🏢 **Oracle** | *GenAI Professional Trainee*
-**Fall 2025**
-- Developing an AI/ML-driven system for employee salary prediction using deep learning and regression models
-- Working with cloud infrastructure and generative AI solutions
-
-### 🏢 **NavoditaInfoTech** | *Machine Learning Intern*
-- Designed and implemented a classification model, including data preprocessing and feature engineering
-- Gained practical experience in machine learning pipeline development
-
-### 🌐 **SheFi Scholar** | *Blockchain & Web3 Fellowship*
-- Awarded a selective global fellowship for demonstrating high potential in Blockchain and DeFi
-- Developed decentralized applications (DApps) and smart contracts using Solidity and Web3.js
-
----
-
-## 🎯 Featured Projects
-
-### 🔗 **CaseHash: Judicial Document Verification System**
-*Solidity, React, Ethereum, SHA-256*
-- Built a tamper-proof system for verifying legal documents using Ethereum smart contracts
-- Implemented SHA-256 hashing for document integrity
-- Developed React frontend with MetaMask integration for user-friendly interaction
-
-### 🤖 **Legal Advisor AI**
-*Python, Streamlit, Google Gemini AI*
-- Created an AI-powered legal assistant to provide guidance on Indian law (IPC, CrPC, Constitution)
-- Integrated conversational interface using Streamlit
-- Deployed with secure backend management
-
-### 💱 **USD to INR Currency Real Time Converter**
-*Python, Streamlit, ExchangeRate-API*
-- Built a real-time currency converter with both command-line and web app interfaces
-- Deployed online via Streamlit for accessible, interactive use
-
-### 🖼️ **Image Scraper App**
-*Python, TypeScript, React, Node.js*
-- Developed a full-stack application to scrape and display images from the web
-- Built Python backend for handling scraping logic and API requests
 
 ---
 
