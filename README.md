@@ -100,8 +100,5 @@ I'm a passionate Computer Science Engineering student at Vellore Institute of Te
 
 <div align="center">
 
-### ⚡ *"Building the future with AI and Blockchain"*
-
-**Made with 💻 by Ananya Kumari**
 
 </div>
